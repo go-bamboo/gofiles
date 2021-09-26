@@ -1,0 +1,13 @@
+pkg: gofiles
+
+dest: "./"
+
+fmt: true
+
+spread: true
+
+custom:
+  - files:
+      - "./form-generator/"
+
+    base: "form-generator"
