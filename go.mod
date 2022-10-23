@@ -1,4 +1,4 @@
-module github.com/emberfarkas/gofiles
+module github.com/go-bamboo/gofiles
 
 go 1.17
 
